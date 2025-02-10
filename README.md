@@ -1,4 +1,4 @@
-# Distance-Recomputator and Topology Reconstructor
+# Adaptive Reconstruction for Graph Neural Networks
 
 Motivation:
 
@@ -9,7 +9,7 @@ Motivation:
 5. Dataset Tuning
 
 ### Citation
-If you find GraphSnapShot useful or relevant to your project and research, please kindly cite our paper:
+If you find our work useful or relevant to your project and research, please kindly cite our paper:
 
 ```
 @article{liu2024distancerecomputatortopologyreconstructor,
