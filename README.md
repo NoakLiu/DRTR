@@ -1,4 +1,4 @@
-# Adaptive Reconstruction for Graph Neural Networks
+# Adaptive Topology Reconstruction for Robust Graph Representation Learning
 
 Motivation:
 
